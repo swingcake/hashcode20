@@ -1,2 +1,2 @@
-# hashcode20
-Hash code 2020 problem, solution by Team Turquoise
+# Hash code 2020
+Book scanning problem for the online qualification round of hash code 2020.
