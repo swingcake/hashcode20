@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Banner
-banner.png
+*.png
